@@ -1,6 +1,6 @@
 The aim here is to get your Xbench checklist into an Excel table and manage it in Excel. This way, you can edit your checklists easily and create new check items faster.
 Since I am not quite familiar with Excel VBA code, I found it easier to map the xml file to Excel and handle some bulk changes in the xml files via Notepad++ macros.
-I am sure someone having average VBA skills can do better and remove the need for Notepad++ macros.
+I am sure someone having average VBA skills can do better and remove the need for Notepad++ macros. If no one does it in near future, my next target is to to that in python or VBA.
 
 To get your checklist into Excel
 1) Install Notepad ++ from here if you do not have it already: https://notepad-plus-plus.org/downloads/
