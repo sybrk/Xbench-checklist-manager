@@ -7,8 +7,8 @@ To get your checklist into Excel
 2) Download the shortcuts.xml and Xbench checklist manager.xlsx from here
 3) You need to go here C:\Users\%username%\AppData\Roaming\Notepad++ 
 4) Make sure Notepad++ is not running. If running, please close it. 
-5) Rename the shortcuts.xml file as shortcuts_old.xml to save a backup.
-6) Copy the shortcuts.xml file provided to you into that path. This is to get two macros for Notepad++ which will be used in the process.
+5) Rename the shortcuts.xml file in the path as shortcuts_old.xml to save a backup of the original Notepad++ shortcuts.
+6) Copy the shortcuts.xml file provided to you in this repository into that path. This is to get two macros for Notepad++ which will be used in the process.
 7) Now open your Xbench checklist in Notepad++.
 8) Go to Macro from top menu and choose Xbench_import
 9) Save your Xbench checklist after running the macro.
